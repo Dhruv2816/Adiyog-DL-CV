@@ -43,7 +43,6 @@ Visual outputs help validate the similarity qualitatively and are used to unders
   - DTW Alignment Heatmap with Overlaid Alignment Path
   - DTW Alignment Scatter Plot
   - Frame Match Trace Plot
-  - (Optionally) Cumulative DTW Cost Plot
 
 > **[INFO] Logs from processing:**  
 > ```
@@ -141,7 +140,7 @@ This section contains the additional visual analysis and insights generated from
 
 ---
 
-## Setup (Optional)
+## Setup
 To run the notebook yourself, create and activate a Python virtual environment and install required libraries as specified in the Day 1 section.
 
 ```bash
