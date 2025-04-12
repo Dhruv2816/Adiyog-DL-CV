@@ -134,7 +134,6 @@ This section contains the additional visual analysis and insights generated from
   - DTW Alignment Heatmap (`Notebooks/outputs/heatmap_with_values.png`)
   - DTW Alignment Scatter Plot (`Notebooks/outputs/dtw_alignment_scatter.png`)
   - Frame Match Trace Plot (`Notebooks/outputs/frame_match_trace.png`)
-  - *(Optional)* Cumulative DTW Cost Plot (if implemented)
 - **Insight Summary:**  
   The GPT-4-Vision Analysis detailing the strengths and minor variations in the pose alignment between the two videos.
 - **Documentation:**  
