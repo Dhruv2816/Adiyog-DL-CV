@@ -141,7 +141,7 @@ This section contains the additional visual analysis and insights generated from
 ---
 
 ## Setup
-To run the notebook yourself, create and activate a Python virtual environment and install required libraries as specified in the Day 1 section.
+To run the notebook yourself, create and activate a Python virtual environment and
 
 ```bash
 python -m venv venv
